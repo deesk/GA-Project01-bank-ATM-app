@@ -1,4 +1,4 @@
-This is my first project while commencing WDI course in GA. Details are as follows,
+This is my first project during WDI course in GA. Details are as follows,
 # GA Bank ATM App
 - Deadline: 9th Feb '17
 - Course timeline: Week 2nd of 12th
