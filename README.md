@@ -1,5 +1,5 @@
 # GA Bank ATM App
-Website: https://deesk.github.io/GA-Project01-banking-ATM-app/
+Git-Website: https://deesk.github.io/GA-Project01-banking-ATM-app/
 
 
 
