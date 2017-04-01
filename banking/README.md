@@ -1,4 +1,7 @@
+This is my first project while commencing WDI course in GA. Details are as follows,
 # GA Bank ATM App
+- Deadline: 9th Feb '17
+- Course timeline: Week 2nd of 12th
 
 ### Specification:
 * Keeping track of the checking and savings balances somewhere
@@ -20,5 +23,4 @@ should change color from gray to red.
 - building out the logic using JavaScript
 
 ### Future improvments
-- Making code more D-R-Yer
-- Responsive 
+- Making code more DRYer
