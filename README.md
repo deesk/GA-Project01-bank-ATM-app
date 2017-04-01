@@ -1,5 +1,10 @@
-This is my first project during WDI course in GA. Details are as follows,
 # GA Bank ATM App
+Website: https://deesk.github.io/GA-Project01-banking-ATM-app/
+
+
+
+This is my first project during WDI course in GA. Details are as follows,
+- GA-Project01: GA Bank ATM App
 - Deadline: 9th Feb '17
 - Course timeline: Week 2nd of 12th
 
